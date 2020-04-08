@@ -7,6 +7,7 @@
 ```sh
 $ npm install
 ```
+## [nekopoi apk](http://nekopoi.sourceforge.net/)
 
 ## Usage
 
